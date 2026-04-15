@@ -12,10 +12,10 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
-  tagline: "Engineering Student & Aspiring Developer",
+  name: "Roma More",
+  firstName: "Ro",   // Used in the hero greeting
+  lastName: "More",      // Displayed large in the hero section
+  tagline: "Blessed",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
@@ -40,13 +40,13 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Each skill has a name and a level (1-5).
   // The level controls the visual indicator bar.
   skills: [
-    { name: "HTML & CSS", level: 4 },
-    { name: "JavaScript", level: 3 },
-    { name: "Python", level: 4 },
-    { name: "C / C++", level: 3 },
-    { name: "React.js", level: 2 },
-    { name: "Git & GitHub", level: 3 },
-    { name: "SQL / MySQL", level: 3 },
+    { name: "HTML & CSS", level: 2 },
+    { name: "JavaScript", level: 1 },
+    { name: "Python", level: 2 },
+    { name: "C / C++", level: 1 },
+    { name: "React.js", level: 0 },
+    { name: "Git & GitHub", level: 2 },
+    { name: "SQL / MySQL", level: 1 },
     { name: "Java", level: 2 },
   ],
 
@@ -156,7 +156,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#6200ffd5",       // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#d90000",   // Darker shade for hover states
   },
 };
