@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Avanti Konde",
+  firstName: "Avanti",   // Used in the hero greeting
+  lastName: "Konde",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -22,15 +22,15 @@ const portfolioData = {
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about building 
+    description: `I'm a First Year Engineering student passionate about building 
 things that live on the internet. I love exploring new technologies, 
 writing clean code, and turning ideas into real-world projects. 
-When I'm not coding, you'll find me playing chess or reading tech blogs.`,
+I also love developing in Blockchain technology.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
-      { label: "Year", value: "Second Year (SE)" },
+      { label: "Branch", value: "Computer Science Engineering" },
+      { label: "Year", value: "First year" },
     ],
   },
 
@@ -99,22 +99,22 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // ----------------------------------------------------------
   education: [
     {
-      degree: "B.E. in Artificial Intelligence and Machine Learning",
-      institution: "Savitribai Phule Pune University",
-      duration: "2024 – 2028",
-      description: "Currently in Second Year. CGPA: 8.5 / 10",
+      degree: "Btech in CSE",
+      institution: "Aissms COE",
+      duration: "2025 – 2029",
+      description: "Currently in First Year. CGPA: 9.45 / 10",
     },
     {
       degree: "HSC (12th Grade)",
       institution: "ABC Junior College, Pune",
-      duration: "2022 – 2024",
+      duration: "2023 – 2025",
       description: "Science stream with Computer Science. Scored 89%.",
     },
     {
-      degree: "SSC (10th Grade)",
+      degree: "CBSE (10th Grade)",
       institution: "XYZ High School, Pune",
-      duration: "2022",
-      description: "Scored 92% with distinction.",
+      duration: "2023",
+      description: "Scored 96.33% with distinction.",
     },
   ],
 
@@ -125,11 +125,11 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "avantikonde2020@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
-        url: "https://github.com/chinmayingle26",
+        url: "https://github.com/avantikonde",
         icon: "github",
       },
       {
@@ -156,7 +156,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#00eaff",       // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#5000d9",   // Darker shade for hover states
   },
 };
