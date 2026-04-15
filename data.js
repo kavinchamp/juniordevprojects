@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Supriya Thorat",
+  firstName: "Supriya",   // Used in the hero greeting
+  lastName: "Thorat",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -22,15 +22,15 @@ const portfolioData = {
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about building 
+    description: `I'm a First Year Engineering student passionate about building 
 things that live on the internet. I love exploring new technologies, 
 writing clean code, and turning ideas into real-world projects. 
-When I'm not coding, you'll find me playing chess or reading tech blogs.`,
+When I'm not coding, you'll find me doing art.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
-      { label: "Year", value: "Second Year (SE)" },
+      { label: "Branch", value: "Computer" },
+      { label: "Year", value: "First Year (FY)" },
     ],
   },
 
@@ -99,22 +99,22 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // ----------------------------------------------------------
   education: [
     {
-      degree: "B.E. in Artificial Intelligence and Machine Learning",
+      degree: "B.Tech in Computer",
       institution: "Savitribai Phule Pune University",
-      duration: "2024 – 2028",
-      description: "Currently in Second Year. CGPA: 8.5 / 10",
+      duration: "2025 – 2029",
+      description: "Currently in First Year. CGPA: 9.5 / 10",
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "ABC Junior College, Pune",
-      duration: "2022 – 2024",
-      description: "Science stream with Computer Science. Scored 89%.",
+      institution: "Laxmanrao Apte Junior College, Pune",
+      duration: "2023 – 2025",
+      description: "Science stream with Computer Science. Scored 78%.",
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
-      duration: "2022",
-      description: "Scored 92% with distinction.",
+      institution: "Sinhgad Spring Dale High School, Pune",
+      duration: "2023",
+      description: "Scored 90% with distinction.",
     },
   ],
 
