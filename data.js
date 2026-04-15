@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Krittika Ahire",
+  firstName: "Krittika",   // Used in the hero greeting
+  lastName: "Ahire",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -107,13 +107,13 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     {
       degree: "HSC (12th Grade)",
       institution: "ABC Junior College, Pune",
-      duration: "2022 – 2024",
+      duration: "2021 – 2023",
       description: "Science stream with Computer Science. Scored 89%.",
     },
     {
-      degree: "SSC (10th Grade)",
+      degree: "ICSE (10th Grade)",
       institution: "XYZ High School, Pune",
-      duration: "2022",
+      duration: "2021",
       description: "Scored 92% with distinction.",
     },
   ],
@@ -125,7 +125,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "krittika.ahire@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
@@ -134,17 +134,17 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
       },
       {
         platform: "LinkedIn",
-        url: "https://linkedin.com/in/chinmayingle",
+        url: "https://linkedin.com/in/k",
         icon: "linkedin",
       },
       {
         platform: "Twitter",
-        url: "https://twitter.com/chinmayingle",
+        url: "https://twitter.com/k",
         icon: "twitter",
       },
       {
         platform: "Instagram",
-        url: "https://instagram.com/chinmayingle",
+        url: "https://instagram.com/_krittika.ahire_",
         icon: "instagram",
       },
     ],
@@ -156,7 +156,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#ff0066ff",       // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#d90062ff",   // Darker shade for hover states
   },
 };
