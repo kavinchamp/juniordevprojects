@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Prakrut Alone",
+  firstName: "Prakrut",   // Used in the hero greeting
+  lastName: "Alone",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -40,14 +40,14 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Each skill has a name and a level (1-5).
   // The level controls the visual indicator bar.
   skills: [
-    { name: "HTML & CSS", level: 4 },
-    { name: "JavaScript", level: 3 },
-    { name: "Python", level: 4 },
-    { name: "C / C++", level: 3 },
-    { name: "React.js", level: 2 },
-    { name: "Git & GitHub", level: 3 },
-    { name: "SQL / MySQL", level: 3 },
-    { name: "Java", level: 2 },
+    { name: "HTML & CSS", level: 10 },
+    { name: "JavaScript", level: 10 },
+    { name: "Python", level: 10 },
+    { name: "C / C++", level: 10 },
+    { name: "React.js", level: 10 },
+    { name: "Git & GitHub", level: 10 },
+    { name: "SQL / MySQL", level: 10 },
+    { name: "Java", level: 10 },
   ],
 
   // ----------------------------------------------------------
@@ -102,19 +102,19 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
       degree: "B.E. in Artificial Intelligence and Machine Learning",
       institution: "Savitribai Phule Pune University",
       duration: "2024 – 2028",
-      description: "Currently in Second Year. CGPA: 8.5 / 10",
+      description: "Currently in Second Year. CGPA: 8.2 / 10",
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "ABC Junior College, Pune",
+      institution: "Modern College of Arts,Commerce and Science, Pune",
       duration: "2022 – 2024",
       description: "Science stream with Computer Science. Scored 89%.",
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "Aaryans World School, Pune",
       duration: "2022",
-      description: "Scored 92% with distinction.",
+      description: "Scored 90% with distinction.",
     },
   ],
 
@@ -125,7 +125,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "prakrut.alone1@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
@@ -156,7 +156,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#002aff",       // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#299bff",   // Darker shade for hover states
   },
 };
