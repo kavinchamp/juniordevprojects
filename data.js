@@ -12,25 +12,25 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
-  tagline: "Engineering Student & Aspiring Developer",
+  name: "Saicharan Tallam",
+  firstName: "Saicharan",   // Used in the hero greeting
+  lastName: "Tallam",      // Displayed large in the hero section
+  tagline: "An Aspiring Software Engineer | AI & ML Enthusiast | Game Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about building 
+    description: `I'm a First Year Engineering student passionate about building 
 things that live on the internet. I love exploring new technologies, 
 writing clean code, and turning ideas into real-world projects. 
 When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
-      { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
-      { label: "Year", value: "Second Year (SE)" },
+      { label: "University", value: "All India Shri Shivaji Memorial Society's College of Engineering" },
+      { label: "Branch", value: "Computer Engineering" },
+      { label: "Year", value: "First Year (FE)" },
     ],
   },
 
@@ -40,7 +40,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Each skill has a name and a level (1-5).
   // The level controls the visual indicator bar.
   skills: [
-    { name: "HTML & CSS", level: 4 },
+    { name: "HTML & CSS", level: 3 },
     { name: "JavaScript", level: 3 },
     { name: "Python", level: 4 },
     { name: "C / C++", level: 3 },
@@ -99,21 +99,21 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // ----------------------------------------------------------
   education: [
     {
-      degree: "B.E. in Artificial Intelligence and Machine Learning",
-      institution: "Savitribai Phule Pune University",
-      duration: "2024 – 2028",
-      description: "Currently in Second Year. CGPA: 8.5 / 10",
+      degree: "B.Tech in Computer Engineering",
+      institution: "All India Shri Shivaji Memorial Society's College of Engineering",
+      duration: "2025 – 2029",
+      description: "Currently in First Year. CGPA: 8.5 / 10",
     },
     {
       degree: "HSC (12th Grade)",
       institution: "ABC Junior College, Pune",
-      duration: "2022 – 2024",
+      duration: "2023 – 2025",
       description: "Science stream with Computer Science. Scored 89%.",
     },
     {
       degree: "SSC (10th Grade)",
       institution: "XYZ High School, Pune",
-      duration: "2022",
+      duration: "2022 – 2023",
       description: "Scored 92% with distinction.",
     },
   ],

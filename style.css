@@ -24,7 +24,7 @@
 
   /* Accent — Updated dynamically from data.js */
   --accent: #c8ff00;
-  --accent-dark: #a8d900;
+  --accent-dark: #f3197f;
   --accent-glow: rgba(200, 255, 0, 0.15);
   --accent-text: #0a0a0a;
 
@@ -883,7 +883,7 @@ button {
   transition: width 1.2s var(--ease-out-expo);
 }
 
-.skill-card.in-view .skill-bar-fill {
+.skill-card.in-view .skill-bar-fill{
   /* Width set inline via JS */
 }
 
