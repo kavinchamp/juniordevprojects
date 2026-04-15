@@ -12,10 +12,10 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
-  tagline: "Engineering Student & Aspiring Developer",
+  name: "Tanuja Karle",
+  firstName: "Tanuja",   // Used in the hero greeting
+  lastName: "karle",      // Displayed large in the hero section
+  tagline: "Engineering Student",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
@@ -125,26 +125,21 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "karletanu23@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
-        url: "https://github.com/chinmayingle26",
+        url: "https://github.com/Tanujakarle",
         icon: "github",
       },
       {
         platform: "LinkedIn",
-        url: "https://linkedin.com/in/chinmayingle",
+        url: "https://linkedin.com/in/Tanujakarle",
         icon: "linkedin",
       },
       {
-        platform: "Twitter",
-        url: "https://twitter.com/chinmayingle",
-        icon: "twitter",
-      },
-      {
         platform: "Instagram",
-        url: "https://instagram.com/chinmayingle",
+        url: "https://instagram.com/tanuja_karle_23",
         icon: "instagram",
       },
     ],
