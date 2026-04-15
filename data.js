@@ -66,7 +66,7 @@ When I'm not coding, you'll find me crocheting or reading tech blogs.`,
       title: "Weather Dashboard",
       description:
         "A real-time weather app that fetches data from OpenWeather API and displays forecasts with beautiful charts.",
-      tags: ["HTML", "CSS", "JavaScript", "API"],
+      tags: ["React", "API"],
       liveLink: "#",
       codeLink: "#",
     },
