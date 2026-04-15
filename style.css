@@ -23,8 +23,8 @@
   --border-hover: rgba(10, 10, 10, 0.15);
 
   /* Accent — Updated dynamically from data.js */
-  --accent: #c8ff00;
-  --accent-dark: #a8d900;
+  --accent: #1235e5;
+  --accent-dark: #0d8cfb;
   --accent-glow: rgba(200, 255, 0, 0.15);
   --accent-text: #0a0a0a;
 
