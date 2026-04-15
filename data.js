@@ -106,15 +106,15 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "Modern College of Arts,Commerce and Sciencwe, Pune",
+      institution: "Modern College of Arts,Commerce and Science, Pune",
       duration: "2022 – 2024",
       description: "Science stream with Computer Science. Scored 89%.",
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "Aaryans World School, Pune",
       duration: "2022",
-      description: "Scored 92% with distinction.",
+      description: "Scored 90% with distinction.",
     },
   ],
 
@@ -125,7 +125,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "prakrutalone@gmail.com",
+    email: "prakrut.alone1@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
