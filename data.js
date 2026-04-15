@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Sidhanth Salve",
+  firstName: "Sidhanth",   // Used in the hero greeting
+  lastName: "salve",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -25,11 +25,11 @@ const portfolioData = {
     description: `I'm a Second Year Engineering student passionate about building 
 things that live on the internet. I love exploring new technologies, 
 writing clean code, and turning ideas into real-world projects. 
-When I'm not coding, you'll find me playing chess or reading tech blogs.`,
+When I'm not coding, you'll find me playing cricket or photography, acting, singing.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
+      { label: "Branch", value: "computer science" },
       { label: "Year", value: "Second Year (SE)" },
     ],
   },
@@ -112,9 +112,9 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "st patricks High School, Pune",
       duration: "2022",
-      description: "Scored 92% with distinction.",
+      description: "Scored 80% with distinction.",
     },
   ],
 
@@ -125,7 +125,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "Sidhanth Slave",
     socialLinks: [
       {
         platform: "GitHub",
@@ -136,11 +136,6 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
         platform: "LinkedIn",
         url: "https://linkedin.com/in/chinmayingle",
         icon: "linkedin",
-      },
-      {
-        platform: "Twitter",
-        url: "https://twitter.com/chinmayingle",
-        icon: "twitter",
       },
       {
         platform: "Instagram",
@@ -156,7 +151,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#18103f",       // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#d99c00",   // Darker shade for hover states
   },
 };
