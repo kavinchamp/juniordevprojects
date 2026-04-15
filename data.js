@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Snehal Balsaraf",
+  firstName: "Snehal",   // Used in the hero greeting
+  lastName: "Balsaraf",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
