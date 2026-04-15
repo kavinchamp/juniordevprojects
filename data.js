@@ -8,15 +8,14 @@
 // ============================================================
 
 const portfolioData = {
-
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Shreeya Garje",
+  firstName: "Shreeya", // Used in the hero greeting
+  lastName: "Garje", // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
-  resumeLink: "#",        // Link to your resume (Google Drive, etc.)
+  resumeLink: "#", // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
   // 📖 ABOUT ME
@@ -25,11 +24,14 @@ const portfolioData = {
     description: `I'm a Second Year Engineering student passionate about building 
 things that live on the internet. I love exploring new technologies, 
 writing clean code, and turning ideas into real-world projects. 
-When I'm not coding, you'll find me playing chess or reading tech blogs.`,
+When I'm not coding, you'll find me crocheting or reading tech blogs.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
+      {
+        label: "Branch",
+        value: "Computer Science",
+      },
       { label: "Year", value: "Second Year (SE)" },
     ],
   },
@@ -43,7 +45,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     { name: "HTML & CSS", level: 4 },
     { name: "JavaScript", level: 3 },
     { name: "Python", level: 4 },
-    { name: "C / C++", level: 3 },
+    { name: "C / C++", level: 1 },
     { name: "React.js", level: 2 },
     { name: "Git & GitHub", level: 3 },
     { name: "SQL / MySQL", level: 3 },
@@ -102,19 +104,19 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
       degree: "B.E. in Artificial Intelligence and Machine Learning",
       institution: "Savitribai Phule Pune University",
       duration: "2024 – 2028",
-      description: "Currently in Second Year. CGPA: 8.5 / 10",
+      description: "Currently in Second Year. CGPA: 9.4 / 10",
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "ABC Junior College, Pune",
+      institution: "The Orbis School, Pune",
       duration: "2022 – 2024",
-      description: "Science stream with Computer Science. Scored 89%.",
+      description: "Science stream with Physical Education. Scored 92.80%.",
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "The Orbis School, Pune",
       duration: "2022",
-      description: "Scored 92% with distinction.",
+      description: "Scored 97% with distinction.",
     },
   ],
 
@@ -125,26 +127,26 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "shreeyagarje08@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
-        url: "https://github.com/chinmayingle26",
+        url: "https://github.com/kirynomo",
         icon: "github",
       },
       {
         platform: "LinkedIn",
-        url: "https://linkedin.com/in/chinmayingle",
+        url: "https://www.linkedin.com/in/shreeya-garje-483708272/",
         icon: "linkedin",
       },
       {
         platform: "Twitter",
-        url: "https://twitter.com/chinmayingle",
+        url: "https://twitter.com/",
         icon: "twitter",
       },
       {
         platform: "Instagram",
-        url: "https://instagram.com/chinmayingle",
+        url: "https://instagram.com/kirbyshreeya",
         icon: "instagram",
       },
     ],
@@ -156,7 +158,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#c8ff00", // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#a8d900", // Darker shade for hover states
   },
 };
