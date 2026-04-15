@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "vishwajeet",
+  firstName: "vishwajeet",   // Used in the hero greeting
+  lastName: "sawant",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -23,9 +23,7 @@ const portfolioData = {
   // ----------------------------------------------------------
   about: {
     description: `I'm a Second Year Engineering student passionate about building 
-things that live on the internet. I love exploring new technologies, 
-writing clean code, and turning ideas into real-world projects. 
-When I'm not coding, you'll find me playing chess or reading tech blogs.`,
+things that live on the internet. i am learning the full stack sev.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
