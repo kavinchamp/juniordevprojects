@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Ronit kawtikwar",
+  firstName: "Ronit",   // Used in the hero greeting
+  lastName: "Kawtikwar",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -112,7 +112,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "cambridge vidalaya, Pune",
       duration: "2022",
       description: "Scored 92% with distinction.",
     },
@@ -125,7 +125,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "ronitkawtikwar@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
