@@ -12,24 +12,22 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
-  tagline: "Engineering Student & Aspiring Developer",
+  name: "Chatudi Halyahoki",
+  firstName: "Chatudi",   // Used in the hero greeting
+  lastName: "Halyahoki",      // Displayed large in the hero section
+  tagline: "Crying",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about building 
-things that live on the internet. I love exploring new technologies, 
-writing clean code, and turning ideas into real-world projects. 
-When I'm not coding, you'll find me playing chess or reading tech blogs.`,
+    description: `I'm a Second Year Engineering student passionate about sleeping on things that live on the internet. I love exploring new technologies, writing working code, and turning ideas into daydreams. 
+When I'm not coding, you'll find me playing chess, crocheting or crying.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
+      { label: "Branch", value: "Robotics & Automation" },
       { label: "Year", value: "Second Year (SE)" },
     ],
   },
@@ -40,14 +38,14 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Each skill has a name and a level (1-5).
   // The level controls the visual indicator bar.
   skills: [
-    { name: "HTML & CSS", level: 4 },
-    { name: "JavaScript", level: 3 },
-    { name: "Python", level: 4 },
+    { name: "HTML & CSS", level: 0 },
+    { name: "JavaScript", level: 0 },
+    { name: "Python", level: 3 },
     { name: "C / C++", level: 3 },
-    { name: "React.js", level: 2 },
-    { name: "Git & GitHub", level: 3 },
-    { name: "SQL / MySQL", level: 3 },
-    { name: "Java", level: 2 },
+    { name: "React.js", level: 0 },
+    { name: "Git & GitHub", level: 2 },
+    { name: "SQL / MySQL", level: 0 },
+    { name: "Java", level: 0 },
   ],
 
   // ----------------------------------------------------------
