@@ -12,10 +12,10 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
-  tagline: "Engineering Student & Aspiring Developer",
+  name: "Revan C. Saindane",
+  firstName: "Revan",   // Used in the hero greeting
+  lastName: "Saindane",      // Displayed large in the hero section
+  tagline: "Aalsi engineer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
@@ -29,7 +29,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
+      { label: "Branch", value: "VLSI&Dt" },
       { label: "Year", value: "Second Year (SE)" },
     ],
   },
@@ -99,20 +99,20 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // ----------------------------------------------------------
   education: [
     {
-      degree: "B.E. in Artificial Intelligence and Machine Learning",
+      degree: "B.E. in VLSI&DT",
       institution: "Savitribai Phule Pune University",
       duration: "2024 – 2028",
       description: "Currently in Second Year. CGPA: 8.5 / 10",
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "ABC Junior College, Pune",
+      institution: "Jai hind high Junior College, Pune",
       duration: "2022 – 2024",
       description: "Science stream with Computer Science. Scored 89%.",
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "Canossa High School, Pune",
       duration: "2022",
       description: "Scored 92% with distinction.",
     },
@@ -125,7 +125,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "revans2925@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
@@ -156,7 +156,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#ff0000",       // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#d90000",   // Darker shade for hover states
   },
 };
